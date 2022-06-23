@@ -16,7 +16,7 @@ export default function Home({ allPostsData }) {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
